@@ -1,0 +1,6 @@
+{"compilerOptions": {
+    "target": "es6",                        // Define o padrão de ECMAScript para o qual o código será compilado
+    "module": "commonjs",
+    "sourceMap": true 
+}
+}
